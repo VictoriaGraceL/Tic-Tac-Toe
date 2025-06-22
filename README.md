@@ -245,12 +245,8 @@ Enhance input validation and error handling
 Create unit tests for game logic
 
 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-👨‍💻 Author
-Viktoriia Lavrenchuk
+This project is open-source and free to use for learning and personal projects.
 
-GitHub: VictoriaGraceL
-Email: victoriagrace984@gmail.com
 
 🏆 Learning Outcomes
 This project demonstrates:
