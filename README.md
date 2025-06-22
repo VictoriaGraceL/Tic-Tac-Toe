@@ -28,7 +28,7 @@ Installation & Running
 
 Clone or Download the Files
 bash# If using git
-git clone https://github.com/yourusername/tic-tac-toe-java.git
+git clone https://github.com/VictoriaGraceL/Tic-Tac-Toe/blob/main/README.md
 cd tic-tac-toe-java
 
 Compile the Java Files
